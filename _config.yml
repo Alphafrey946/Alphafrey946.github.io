@@ -25,8 +25,9 @@ description: Personal website for Yimeng Dou.
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Alphafrey946
-markdown:kramdown
-#kramdown: input: GFM
+markdown: kramdown
+kramdown: 
+  input: GFM
 # Build settings
 theme: minima
 plugins:
