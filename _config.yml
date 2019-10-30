@@ -26,7 +26,7 @@ description: Personal website for Yimeng Dou.
 #twitter_username: jekyllrb
 github_username:  Alphafrey946
 markdown:kramdown
-kramdown: input: GFM
+#kramdown: input: GFM
 # Build settings
 theme: minima
 plugins:
