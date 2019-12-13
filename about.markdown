@@ -10,7 +10,7 @@ Dou Yimeng (窦祎萌)
 School: UC Davis  
 Major: Biomedical Engineering with a minor in Computer Science  
 Current position: Junior Specialist at UC Davis  
-Interests: Machine Learning, Computer Vision, Medical Image analysis, Medical Image instrumentation
+Interests: Machine Learning, Computer Vision, Medical Image analysis, Medical Image instrumentation,
 
 ## Project
 
@@ -24,6 +24,8 @@ Design of A Multiplexer Circuit for Efficient Use of Detector Electronics In PET
 You can find out my Github repo at [my repo](https://github.com/Alphafrey946), altough must of my code would not be available publicly just now.
 
 More detailed CV is at [my CV](https://ucdavis.box.com/s/uj13mvx4b1juen5u3mjadfs3xx72xfae).
+
+Also plase check something I did with others in the field of entrepreneur, [Maia Health](maiahealth.com/).
 
 
 
