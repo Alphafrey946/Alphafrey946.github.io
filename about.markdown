@@ -25,7 +25,7 @@ You can find out my Github repo at [my repo](https://github.com/Alphafrey946), a
 
 More detailed CV is at [my CV](https://github.com/Alphafrey946/Alphafrey946.github.io/blob/master/CV_Yimeng_Dou.pdf).
 
-Also plase check something I did with others in the field of entrepreneur, [Maia Health](maiahealth.com/).
+Also plase check something I did with others as an entrepreneur, [Maia Health](maiahealth.com/).
 
 
 
