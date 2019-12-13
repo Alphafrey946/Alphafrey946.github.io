@@ -23,7 +23,7 @@ Design of A Multiplexer Circuit for Efficient Use of Detector Electronics In PET
 
 You can find out my Github repo at [my repo](https://github.com/Alphafrey946), altough must of my code would not be available publicly just now.
 
-More detailed CV is at [my CV](https://ucdavis.box.com/s/uj13mvx4b1juen5u3mjadfs3xx72xfae).
+More detailed CV is at [my CV](https://github.com/Alphafrey946/Alphafrey946.github.io/blob/master/CV_Yimeng_Dou.pdf).
 
 Also plase check something I did with others in the field of entrepreneur, [Maia Health](maiahealth.com/).
 
