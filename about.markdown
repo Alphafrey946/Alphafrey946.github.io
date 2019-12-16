@@ -21,7 +21,7 @@ TextIriX: A Texture Analtsis Plugin for OsiriX | 2017 - 2019 | Plugin file upon 
 PET imaging study on detecting neuroinflammation | 2018 - 2019 | N/A |Poster: Neuroinflammation Detected by Longitudinal TSPO Positron Emission Tomography (PET) Is Associated with Deficits in Learning and Memory in a Rat Model of Acute Organophosphate (OP) Intoxication (SOT, 2156)
 Design of A Multiplexer Circuit for Efficient Use of Detector Electronics In PET Scanners | 2016 - 2017 | N/A | Oral Presentation [link](http://chapter.aapm.org/sfba/documents/2017_SFBA_AAPM_YI_2017_Agenda.pdf).
 
-You can find out my Github repo at [my repo](https://github.com/Alphafrey946), altough must of my code would not be available publicly just now.
+You can find out my Github repo at [my repo](https://github.com/Alphafrey946), altough must of my code would not be available publicly just now, due to funding regulation.
 
 More detailed CV is at [my CV](https://github.com/Alphafrey946/Alphafrey946.github.io/blob/master/CV_Yimeng_Dou.pdf).
 
